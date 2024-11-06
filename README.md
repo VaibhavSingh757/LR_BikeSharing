@@ -20,6 +20,19 @@ statsmodels - version 0.12.2
 sklearn - version 0.24.2
 scipy - version 1.7.1
 
+## Conclusion
+Significant variables to predict the demand for shared bikes
+
+holiday
+temp
+hum
+windspeed
+Season
+months(January, July, September, November, December)
+Year (2019)
+Sunday
+weathersit( Light Snow, Mist + Cloudy)
+
 
 
 <!-- Optional -->
